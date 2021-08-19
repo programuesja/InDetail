@@ -1,0 +1,1 @@
+This repository includes explanations and examples of all the instagram posts, but in a more detailed way.
